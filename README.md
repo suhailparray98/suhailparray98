@@ -1,6 +1,4 @@
 ### Hi there 👋, my name is suhail
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 i am a 3rd year computer science engineering student at Model Institute Of Engineering And Technology
 
 Skills: C/C++/PYTHON/SQL/MONGODB
