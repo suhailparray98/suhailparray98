@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is suhail
-i am a 3rd year computer science engineering student at Model Institute Of Engineering And Technology
+i am a 4th year computer science engineering student at Model Institute Of Engineering And Technology
 
-Skills: C/C++/PYTHON/SQL/MONGODB
+Skills: C/C++/PYTHON/JAVASCRIPT/SQL/MONGODB
 
 - 🔭 I’m currently working on  Software development  
-- 🌱 I’m currently learning DEVOPS 
+- 🌱 I’m currently learning React 
 - 👯 I’m looking to collaborate on OPEN SOURCE  
 - 💬 Ask me about C++/PYHTON/DATA STRUCTURE AND ALGORITHM 
 - 😄 Pronouns: HE/HIM 
