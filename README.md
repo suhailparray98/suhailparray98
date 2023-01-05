@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is suhail
-i am a 4th year computer science engineering student at Model Institute Of Engineering And Technology
+i am Computer Science Graduate Majorily Focused in Coding and Development.
 
-Skills: C/C++/PYTHON/JAVASCRIPT/SQL/MONGODB
+Skills: C/C++/PYTHON/JAVASCRIPT/SQL/Full Stack Web Development/Machine Learning 
 
-- 🔭 I’m currently working on  Software development  
-- 🌱 I’m currently learning React 
-- 👯 I’m looking to collaborate on OPEN SOURCE  
-- 💬 Ask me about C++/PYHTON/DATA STRUCTURE AND ALGORITHM 
+- 🔭 I’m currently working as a developer.
+- 🌱 I’m currently Learning Data Strucure and Algorithm.
+- 👯 I’m looking to collaborate on OPEN SOURCE . 
+- 💬 Ask me about C++/PYHTON/DATA STRUCTURE AND ALGORITHM /POWER PLATFORM DEVELOPMENT/MICROSOFT DYNAMICS.
 - 😄 Pronouns: HE/HIM 
 - ⚡ Fun fact: LISTEN SONGS,READ BOOKS ,NATURE LOVER  
 
