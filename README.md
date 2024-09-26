@@ -1,28 +1,28 @@
 ### Hi there 👋, my name is suhail,
 I am Working as a Full Stack Developer with 2.5 yrs of experience in MNC.
 #### My current role include the   
-     following skillset:
- <strong>Code</strong>: Python,SQL,Pyspark.
- <strong>PAAS</strong>: Azure Databricks.
- <strong>DevOps</string>: Azure DevOps.
- <strong>Web</strong>: HTML,CSS,JavaScript,React.
+####   following skillset:
+ <strong>Code</strong>: Python,SQL,Pyspark.<br>
+ <strong>PAAS</strong>: Azure Databricks.<br>
+ <strong>DevOps</string>: Azure DevOps.<br>
+ <strong>Web</strong>: HTML,CSS,JavaScript,React.<br>
  <strong>Microsoft Power Apps</strong>: canvas and Model    
-                       driven apps.
+                       driven apps.<br>
  <strong>Data Platform</strong>: Microsoft Customer      
-                Insights.
- <strong>Data WareHouse</strong>: Denodo Dive.
- <strong>Data Visualization</strong>: Tableau.
- <strong>Cloud</strong>: Azure Cloud.
+                Insights.<br>
+ <strong>Data WareHouse</strong>: Denodo Dive.<br>
+ <strong>Data Visualization</strong>: Tableau.<br>
+ <strong>Cloud</strong>: Azure Cloud.<br>
  <strong>Strategies</strong>: Optimization   
              techniques,clean code,faster    
              execution,reduce time and   
-             space complexity.
+             space complexity.<br>
  
 #### Other Secondary Skillset I have:
-<strong>Language</strong>: Java.
-<strong>Framework</strong>: Sprinboot.
+<strong>Language</strong>: Java.<br>
+<strong>Framework</strong>: Sprinboot.<br>
 <strong>Efficiency</strong>: Data Structure and Algorithm
-            System design.
+            System design.<br>
 
 
 
