@@ -4,7 +4,7 @@ I am Working as a Full Stack Developer with 2.5 yrs of experience in MNC.
 ####   following skillset:
  <strong>Code</strong>: Python,SQL,Pyspark.<br>
  <strong>PAAS</strong>: Azure Databricks.<br>
- <strong>DevOps</string>: Azure DevOps.<br>
+ <strong>DevOps</strong>: Azure DevOps.<br>
  <strong>Web</strong>: HTML,CSS,JavaScript,React.<br>
  <strong>Microsoft Power Apps</strong>: canvas and Model    
                        driven apps.<br>
