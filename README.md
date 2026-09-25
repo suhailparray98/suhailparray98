@@ -49,7 +49,8 @@ Data Solutions Architect specializing in scalable distributed infrastructure and
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-
+![Java](https://img.shields.io/badge/Java-3776AB?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=c++&logoColor=white)
 ### Big Data & Streaming
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
