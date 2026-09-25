@@ -41,61 +41,82 @@ Data Solutions Architect specializing in scalable distributed infrastructure and
 | **Tata Consultancy Service** | Senior Data Engineer | French Multinational Enterprise| Apr 2026 – Present |
 | **Tata Consultancy Service** | Data Engineer | Global Semiconductor Manufacturer | Jul 2022 – Apr 2026  |
 
+---
+# 🛠 Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
+### Big Data & Streaming
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-0052CC?style=flat-square)
+![ELT](https://img.shields.io/badge/ELT-0052CC?style=flat-square)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-00897B?style=flat-square)
+![Data Warehousing](https://img.shields.io/badge/Data%20Warehousing-00695C?style=flat-square)
+
+
+### Azure
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat-square)
+![Azure Databricks](https://img.shields.io/badge/Databricks-EF3E42?style=flat-square)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabrics-0078D4?style=flat-square)
+![Azure Data Lake](https://img.shields.io/badge/Azure%20Data%20Lake-0078D4?style=flat-square)
+![Azure Synapse](https://img.shields.io/badge/Synapse-0078D4?style=flat-square)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A84FF?style=flat-square)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### Reporting & DevOps
+
+![Tableau](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
 ---
+# 📜 Certifications
 
+- ✅ Google Cloud Associate Engineer
+- ✅ Python Programming (NPTEL)
+- ✅ Python Full Stack Development (Udemy)
+- ✅ Azure Data Engineering Bootcamp (Udemy)
+- ✅ SQL Bootcamp – Udemy (Udemy)
+- ✅ Big Data Engineering (Udemy)
+- ✅ System Design & Data Structure & Algorithm
+- Databricks Certified Data Engineer Associate *(In Progress)*
+---
+# 📜 Achievements
 
+- ✅ Solved 100+ leetcode questions
+- ✅ Awarded with on the spot award by TCS.
+- ✅ Awarded as Best Performer of the Year By Company’s Client 2025.
+- ✅ Recognized as Top 5% Learner in TCS by completing 2000+ courses and handsons.
+- ✅ Completed 10+ projects with python in web development, data analysis and automation
+---
 
-
-
-
-
-
-
-
-### Hi there 👋, my name is suhail,
-I am Working as a Full Stack Developer with 2.5 yrs of experience in MNC.
-#### My current role include the   
-####   following skillset:
- <strong>Code</strong>: Python,SQL,Pyspark.<br>
- <strong>PAAS</strong>: Azure Databricks.<br>
- <strong>DevOps</strong>: Azure DevOps.<br>
- <strong>Web</strong>: HTML,CSS,JavaScript,React.<br>
- <strong>Microsoft Power Apps</strong>: canvas and Model    
-                       driven apps.<br>
- <strong>Data Platform</strong>: Microsoft Customer      
-                Insights.<br>
- <strong>Data WareHouse</strong>: Denodo Dive.<br>
- <strong>Data Visualization</strong>: Tableau.<br>
- <strong>Cloud</strong>: Azure Cloud.<br>
- <strong>Strategies</strong>: Optimization   
-             techniques,clean code,faster    
-             execution,reduce time and   
-             space complexity.<br>
  
-#### Other Secondary Skillset I have:
-
-<strong>Language</strong>: Java.<br>
-<strong>Framework</strong>: Sprinboot.<br>
-<strong>Efficiency</strong>: Data Structure and Algorithm
-            System design.<br>
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/suhailparray98)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suhailap/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/suhail.parray.39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/soub_in_tech/)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=suhailparray98)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhailparray98)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=suhailparray98&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=suhailparray98)  
-
-![GitHub metrics](https://metrics.lecoq.io/suhailparray98)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=suhailparray98)  
 
-![Profile views](https://gpvc.arturio.dev/suhailparray98)  
+
+
+# 📫 Connect With Me
+
+📧 **Email**
+suhailparray070@gmail.com
+
+💼 **LinkedIn**
+https://www.linkedin.com/in/suhailiqbalparray/
+
+🌐 **Portfolio**
+https://codebasics.io/portfolio/Suhail_Parray
+
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
