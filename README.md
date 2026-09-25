@@ -34,7 +34,15 @@ Data Solutions Architect specializing in scalable distributed infrastructure and
 - 🎓 B.E. in Computer Science Engineering , Jammu University.
 - 📍 Based in **Bangalore, Karnataka, India**.
 ---
+# 🧭 Experience
 
+| Company | Role | Client  | Duration |
+|---|---|---|---|
+| **Tata Consultancy Service** | Senior Data Engineer | French Multinational Enterprise| Apr 2026 – Present |
+| **Tata Consultancy Service** | Data Engineer | Global Semiconductor Manufacturer | Jul 2022 – Apr 2026  |
+
+
+---
 
 
 
