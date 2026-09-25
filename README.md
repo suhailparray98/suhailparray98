@@ -118,6 +118,6 @@ suhailparray070@gmail.com
 https://www.linkedin.com/in/suhailiqbalparray/
 
 🌐 **Portfolio**
-https://codebasics.io/portfolio/Suhail_Parray
+https://suhailparray98/portfolio/Suhail_Parray
 
 ⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
