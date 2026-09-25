@@ -1,3 +1,38 @@
+<div align="center">
+
+# Suhail Parray 👋
+
+### Data Engineer | Azure Databricks | Microsoft Fabrics | Apache Spark | PySpark | SQL | Python | Azure Cloud| Azure DevOps
+
+Data Solutions Architect specializing in scalable distributed infrastructure and metadata-driven pipeline ecosystems.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/suhailiqbalparray/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://codebasics.io/portfolio/Suhail_Parray">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+
+  <a href="mailto:suhailparray070@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 ### Hi there 👋, my name is suhail,
 I am Working as a Full Stack Developer with 2.5 yrs of experience in MNC.
 #### My current role include the   
