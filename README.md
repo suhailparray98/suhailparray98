@@ -22,6 +22,18 @@ Data Solutions Architect specializing in scalable distributed infrastructure and
 
 </div>
 
+---
+
+# 👨‍💻 About Me
+
+- 💼 Data Engineer with **~4.3 years of experience** designing and building scalable cloud-based data engineering solutions across **Azure and GCP**.
+- 🚀 Currently at **Tata Consultancy Service**, on the **Data Engineering** team, building Azure Based Fabric, Databricks ETL/ELT pipelines for Multi National Company CLient.
+- 📊 Earlier worked for Semiconductor Based Company Project where I have delivered Databricks solution interms of pipelines from Design-> Development->Testing->Deployment->Monitoring.
+- ☁️ Strong expertise in Building ETL/ELT pipeline design, Data Modeling, Data Warehousing, Streaming Ingestion, Performance Optimization, Data Quality, CI/CD, and Power BI Reporting.
+- 🌱 Currently preparing for **Databricks and Azure Certifications**.
+- 🎓 B.E. in Computer Science Engineering , Jammu University.
+- 📍 Based in **Bangalore, Karnataka, India**.
+---
 
 
 
