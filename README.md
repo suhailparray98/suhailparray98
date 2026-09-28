@@ -120,4 +120,9 @@ https://www.linkedin.com/in/suhailiqbalparray/
 🌐 **Portfolio**
 https://suhailparray98/portfolio/Suhail_Parray
 
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=suhailparray98&color=ff7eb6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
 ⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
